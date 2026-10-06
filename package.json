@@ -1,0 +1,8 @@
+{
+  "name": "usdt-verify-simple",
+  "version": "1.0.0",
+  "description": "Simple USDT Verification DApp",
+  "dependencies": {
+    "ethers": "^6.9.0"
+  }
+}
